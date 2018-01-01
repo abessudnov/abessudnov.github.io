@@ -23,8 +23,8 @@ All the course materials are available on ELE.
 
 ## National Research University Higher School of Economics (2011-14)
 
-* Regression Analysis [2012] `[Course outline]`](../filesteaching/regsyll.pdf)
-* Введение в социологию (совместный бакалавриат РЭШ/ВШЭ) [2012-13] `[Программа курса]`](../filesteaching/nessyllabus2013.pdf)
+* Regression Analysis [2012] [`[Course outline]`](../filesteaching/regsyll.pdf)
+* Введение в социологию (совместный бакалавриат РЭШ/ВШЭ) [2012-13] [`[Программа курса]`](../filesteaching/nessyllabus2013.pdf)
 * Анализ социологических данных 1 [2012-14]
 	+ Введение в количественный анализ данных в социологии в SPSS
 	+ Темы: описательная статистика, графическое представление данных, линейная регрессия и корреляция, логистическая регрессия, логарифмически-линейные модели, дисперсионный анализ
