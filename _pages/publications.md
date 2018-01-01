@@ -17,14 +17,14 @@ author_profile: true
 
 ### Ethnicity and ethnic hierarchy
 
-* Bessudnov, A. (2016). "Ethnic hierarchy and public attitudes towards immigrants in Russia". European Sociological Review 32 (5): 567-580. [`[Source]`](https://academic.oup.com/esr/article-abstract/32/5/567/2197545) [`[pdf]`](../files/ESRopen.pdf)
+* Bessudnov, A. (2016). "Ethnic hierarchy and public attitudes towards immigrants in Russia". European Sociological Review 32 (5): 567-580. [`[Source]`](https://doi.org/10.1093/esr/jcw002) [`[pdf]`](../files/ESR2016_open.pdf)
 
 ### Inequalities in education
 
-* Bessudnov, A., Kurakin, D., and Malik, V. (2017). "The myth about universal higher education: Russia in the international context". Educational Studies Moscow 3: 83-109.
-* Bessudnov, A., and Malik, V. (2016). "Socio-economic and gender inequalities in educational trajectories upon completion of lower secondary education in Russia". Educational Studies Moscow 1: 135-167.
-* Bessudnov, A. and Makarov, A. (2015). "School context and gender differences in mathematical performance among school graduates in Russia". International Studies in Sociology of Education 25 (1): 63-81. [Open access version]
-* Yastrebov, G., Bessudnov, A., Pinskaya, M., and Kosaretsky, S. (2013). "The issue of educational results' contextualisation: Schools, their social structure and a territory deprivation level". Educational Studies Moscow 4: 188-246.
+* Bessudnov, A., Kurakin, D., and Malik, V. (2017). "The myth about universal higher education: Russia in the international context". Educational Studies Moscow 3: 83-109. [`[Source]`](https://doi.org/10.17323/1814-9545-2016-1-135-167) [`[pdf]`](../files/VO2017.pdf)
+* Bessudnov, A., and Malik, V. (2016). "Socio-economic and gender inequalities in educational trajectories upon completion of lower secondary education in Russia". Educational Studies Moscow 1: 135-167. [`[Source]`](https://doi.org/10.17323/1814-9545-2017-3-83-109) [`[pdf]`](../files/VO2016.pdf)
+* Bessudnov, A. and Makarov, A. (2015). "School context and gender differences in mathematical performance among school graduates in Russia". International Studies in Sociology of Education 25 (1): 63-81. [`[Source]`](https://doi.org/10.1080/09620214.2014.1000937) [`[pdf]`](../files/ISSE2015_open.pdf)
+
 
 ### Programme evaluation in education
 
