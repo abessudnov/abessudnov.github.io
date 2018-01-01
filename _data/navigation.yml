@@ -14,5 +14,8 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "По-русски"
+    url: /russian/
     
 
