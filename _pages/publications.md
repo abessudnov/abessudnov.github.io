@@ -17,7 +17,7 @@ author_profile: true
 
 ### Ethnicity and ethnic hierarchy
 
-* Bessudnov, A. (2016). "Ethnic hierarchy and public attitudes towards immigrants in Russia". European Sociological Review 32 (5): 567-580. [[Source]](https://academic.oup.com/esr/article-abstract/32/5/567/2197545)
+* Bessudnov, A. (2016). "Ethnic hierarchy and public attitudes towards immigrants in Russia". European Sociological Review 32 (5): 567-580. [`[Source]`](https://academic.oup.com/esr/article-abstract/32/5/567/2197545)
 
 ### Inequalities in education
 
