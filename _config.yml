@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Main page"
+title                    : "Alexey Bessudnov"
 title_separator          : "-"
 name                     : &name "Alexey Bessudnov"
 description              : &description "personal description"
