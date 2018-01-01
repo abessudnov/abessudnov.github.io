@@ -1,9 +1,8 @@
 ---
 title: "Ethnic hierarchy and public attitudes towards immigrants in Russia"
-author: "A.Bessudnov"
 collection: publications
 permalink: /publication/2016_ethnic_hierarchy
-date:  2016
+date:  2016-01-01
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Bessudnov, A. (2016). &quot;Ethnic hierarchy and public attitudes towards immigrants in Russia&quot; <i>European Sociological Review</i>. 32(5): 567-580.'
 ---
