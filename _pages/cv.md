@@ -9,51 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+Career
+======
+* Senior Lecturer, Department of Sociology, Philosophy and Anthropology, University of Exeter (2017 - )
+* Lecturer, Department of Sociology, Philosophy and Anthropology, University of Exeter (2014-17)
+* Assistant Professor, Department of Sociology, National Research University Higher School of Economics (2011-14)
+* Max Weber Postdoctoral Fellow, European University Institute (2010-11)
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* DPhil in Sociology (2011). University of Oxford, St Antony's College
+* MA in Sociology (2004). European University at St Petersburg
+* Diploma in History (2003). St Petersburg State University
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  See [`Publications`](/publications/)
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+    See [`Talks`](/talks/)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  See [`Teaching`](/teaching/)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
