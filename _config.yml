@@ -9,8 +9,8 @@
 locale                   : "en-GB"
 title                    : "Alexey Bessudnov"
 title_separator          : "-"
-name                     : &name "Alexey Bessudnov"
-description              : &description "personal description"
+name                     : "Alexey Bessudnov"
+description              : "Personal website of Alexey Bessudnov: quantitative social science, education, immigration and ethnic minorities in the UK and Russia."
 url                      : "https://abessudnov.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abessudnov/abessudnov.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
