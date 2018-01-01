@@ -33,9 +33,8 @@ author_profile: true
 ### Social stratification in Russia
 
 * Bessudnov, A. (2016). "The effects of parental social background on labour market outcomes in Russia", in: Education, Occupation and Social Origin: A Comparative Analysis of the Transmission of Socio-Economic Inequalities, Eds. F.Bernardi and G.Ballarino. Edward Elgar, pp. 150-167. [`[pdf]`](../files/Bessudnov_ch10.pdf)
-* Bessudnov, A., McKee, M. and Stuckler, D. (2012). "Inequalities in male mortality by occupational class, perceived status, and education in Russia, 1994-2006". European Journal of Public Health 22(3): 332-337. [`[Source]`](https://doi.org/10.1093/eurpub/ckr130) [`[pdf]`](../files/ejph_2012.pdf)
+* Bessudnov, A., McKee, M. and Stuckler, D. (2012). "Inequalities in male mortality by occupational class, perceived status, and education in Russia, 1994-2006". European Journal of Public Health 22(3): 332-337. [`[Source]`](https://doi.org/10.1093/eurpub/ckr130) [`[pdf]`](../files/ejph2012.pdf)
 * Bessudnov, A. (2012). "A relational occupational scale for Russia", in: Social Stratification: Trends and Processes. Eds. B.Blackburn, R.Connelly, V.Gayle and P.Lambert. Ashgate. Pp.53-68. [`[pdf]`](../files/BessudnovScale2012.pdf)
-ruscale.ado: Stata routine for coding the occupational scale for Russia from ISCO88
 * Bessudnov, A. (2011). "Essays on occupational class and status in post-Soviet Russia". DPhil thesis. University of Oxford. [`[Source]`](https://ora.ox.ac.uk/objects/uuid%3Af325c98a-d765-468e-8e5b-74573315d4fe) [`[pdf]`](../files/BessudnovThesis.pdf)
 
 ### На русском языке
