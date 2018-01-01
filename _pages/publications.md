@@ -14,3 +14,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+What happens if I add text here? Can I add it manually?
+
