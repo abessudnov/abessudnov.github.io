@@ -11,4 +11,5 @@ author_profile: true
 {% endfor %}
  -->
 
- This page only includes talks delivered in 2018 or later.{: .notice}
+ This page only includes talks delivered in 2018 or later.
+ {: .notice}
