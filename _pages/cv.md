@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[`Download as a pdf`](../filespubs/CV_Bessudnov.pdf)
+[`Download as pdf`](../filespubs/CV_Bessudnov.pdf)
 
 Career
 ======
