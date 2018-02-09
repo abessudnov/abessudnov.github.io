@@ -27,7 +27,7 @@ Together with Alison Black, Brahm Norwich and Yi Liu we are analysing data from 
 I use data from the Russian census to look at the ethnic intermarriage in Russia across several cohorts and regions. Please see a (somewhat outdated) presentation [here](filestalks/glasgowBessudnov.pdf).
 
 
-** 4. Social inequaities in education in Russia.**
+**4. Social inequaities in education in Russia.**
 
 Together with Dmitry Kurakin and Valeriya Malik from the HSE Moscow, we explore social inequalities in Russian education, with a particular focus on primary and secondary effects of parental background. This project uses data from [TrEC](https://trec.hse.ru/en/) (Trajectories in Education and Career), the first longitudinal study of educational trajectories in Russia. Currently we explore horizontal stratification in higher education. See the latest presentation [here](filestalks/HSEeducJan2018.pdf) (in Russian).
 
