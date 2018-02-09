@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Current projects"
-    url: /current/
 
   - title: "Publications"
     url: /publications/
@@ -15,7 +13,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "По-русски"
-    url: /russian/
     
 
