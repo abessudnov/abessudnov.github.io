@@ -13,7 +13,7 @@ author_profile: true
 
 ## University of Exeter (2014 - )
 
-All the course materials are available on ELE.
+All course materials are available on [ELE](http://vle.exeter.ac.uk/).
 
 * Immigration in Western Societies (POL2091/3091 SOC2091/3091). [`[Course outline 2017]`](../filesteaching/soc2091outline.pdf)
 * Data Analysis in Social Science 3 (POL2094/3094 SOC2094/3094). [`[Course outline 2017]`](../filesteaching/soc2094outline.pdf)

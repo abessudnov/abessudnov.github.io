@@ -16,7 +16,7 @@ Current projects:
 
 Together with Andrey Shcherbak from the HSE St Petersburg we conduct the first audit study of ethnic discrimination in the Russian labour market. We have sent over 9,000 job applications in four Russian cities to explore the differences in response rates across 10 ethnic groups. The data collection finished in January 2018 and we are currently analysing the data and writing up the results. The project has been supported by the British Academy and the HSE.
 
-Please see the presentation with the preliminary results (January 2018) [here](filestalks/hseJan2018slides.pdf).
+Please see a presentation with the preliminary results (January 2018) [here](filestalks/hseJan2018slides.pdf).
 
 **2. The effect of academisation on educational trajectories of children with special needs in England.**
 
