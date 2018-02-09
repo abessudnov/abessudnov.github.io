@@ -13,3 +13,6 @@ author_profile: true
 
  This page only includes talks delivered in 2018 or later.
  {: .notice}
+ 
+* "Ethnic hierarchy in the Russian labour market: A field experiment" (with Andrey Shcherbak)
+  - Laboratory for Comparative Social Research, HSE St Peterbsurg, 25 January 2018. [`[Slides]`](../filestalks/hseJan2018slides.pdf)
