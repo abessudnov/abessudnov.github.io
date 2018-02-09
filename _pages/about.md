@@ -10,7 +10,7 @@ redirect_from:
 
 I am a quantitative social scientist working at the University of Exeter. I am mostly interested in ethnic inequalities and inequalities in education and conduct research both on Russia and the UK.
 
-Current projects:
+Currently I am involved in the following projects.
 
 **1. Ethnic hierarchy in the Russian labour market.**
 
