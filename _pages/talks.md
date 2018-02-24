@@ -16,5 +16,6 @@ author_profile: true
  
 * "Ethnic hierarchy in the Russian labour market: A field experiment" (with Andrey Shcherbak)
   - Laboratory for Comparative Social Research, HSE St Petersburg, 25 January 2018. [`[Slides]`](../filestalks/hseJan2018slides.pdf)
+  - St Antony's College, Oxford University, 19 February 2018. [`[Slides]`](../filestalks/oxfordFeb2018slides.pdf)
 * "Social inequalities in higher education in Russia" (with Dmitry Kurakin and Valeriya Malik)
   - Institute of Education, HSE Moscow, 23 January 2018. [`[Slides]`](../filestalks/HSEeducJan2018.pdf)
