@@ -24,7 +24,7 @@ Together with Alison Black, Brahm Norwich and Yi Liu we are analysing data from 
 
 **3. Evaluating the Integrated Group Reading programme.**
 
-Together with Brahm Norwich and George Koutsouris we have evaluated the Integrated Group Reading (IGR) programme, a classroom reading intervention for Year 2 and 3 pupils in English schools who struggle to learn to read. The evaluation involved conducting a randomised controlled trial and has been supported by the Nuffield Foundation. The project has now been completed; please see the final report [here](filespubs/IGRreportFINALeditedMay18.pdf) and the summary [here](filespubs/IGRSummaryfinalMay18.pdf).
+Together with Brahm Norwich and George Koutsouris we have evaluated the [Integrated Group Reading (IGR) programme](http://www.integratedgroupreading.co.uk/), a classroom reading intervention for Year 2 and 3 pupils in English schools who struggle to learn to read. The evaluation involved conducting a randomised controlled trial and has been supported by the Nuffield Foundation. The project has now been completed; please see the final report [here](filespubs/IGRreportFINALeditedMay18.pdf) and the summary [here](filespubs/IGRSummaryfinalMay18.pdf).
 
 **4. Ethnic intermarriage in Russia.**
 
