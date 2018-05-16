@@ -22,7 +22,7 @@ Please see a presentation with the final results (April 2018) [here](filestalks/
 
 Together with Alison Black, Brahm Norwich and Yi Liu we are analysing data from the National Pupil Database to study educational trajectories of children with special educational needs in English schools. In particular, we are interested in whether converting schools to academies has affected placements of children with SEN. The project has been funded by the ESRC.
 
-**3. Evaluating the Integrated Group Reading programme. **
+**3. Evaluating the Integrated Group Reading programme.**
 
 Together with Brahm Norwich and George Koutsouris we have evaluated the Integrated Group Reading (IGR) programme, a classroom reading intervention for Year 2 and 3 pupils in English schools who struggle to learn to read. The evaluation involved conducting a randomised controlled trial and has been supported by the Nuffield Foundation. The project has now been completed; please see the final report [here](filestalks/IGRreportFINAleditedMay18.pdf) and the summary [here](filestalks/IGRSummaryfinalMay18.pdf).
 
