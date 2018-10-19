@@ -14,9 +14,11 @@ Currently I am involved in the following projects.
 
 **1. Ethnic hierarchy in the Russian labour market.**
 
-Together with Andrey Shcherbak from the HSE St Petersburg we conducted the first audit study of ethnic discrimination in the Russian labour market. We have sent over 9,000 job applications in four Russian cities to explore the differences in response rates across 10 ethnic groups. The data collection finished in January 2018 and we are currently writing up the results. The project has been supported by the British Academy and the HSE as part of the International Mobility and Partnership scheme.
+Together with Andrey Shcherbak from the HSE St Petersburg we conducted the first audit study of ethnic discrimination in the Russian labour market. We have sent over 9,000 job applications in four Russian cities to explore the differences in response rates across 10 ethnic groups. The project has been supported by the British Academy and the HSE as part of the International Mobility and Partnership scheme.
 
-Please see a presentation with the final results (April 2018) [here](filestalks/HSEconfApril2018slides.pdf).
+The results are now available as a working paper:
+
+A.Bessudnov & A.Shcherbak. (2018). "Ethnic hierarchy in the Russian labour market: A field experiment". SocArXiv. 16 October. [doi:10.31235/osf.io/2qzus](https://osf.io/preprints/socarxiv/2qzus/).
 
 **2. The effect of academisation on educational trajectories of children with special needs in England.**
 
@@ -29,7 +31,6 @@ Together with Brahm Norwich and George Koutsouris we have evaluated the [Integra
 **4. Ethnic intermarriage in Russia.**
 
 I use data from the Russian census to look at the ethnic intermarriage in Russia across several cohorts and regions. Please see a (somewhat outdated) presentation [here](filestalks/glasgowBessudnov.pdf).
-
 
 **5. Social inequaities in education in Russia.**
 

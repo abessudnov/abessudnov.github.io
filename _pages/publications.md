@@ -17,6 +17,9 @@ author_profile: true
 
 ### Ethnicity and ethnic hierarchy
 
+* Bessudnov, A. and A. Shcherbak. (2018). "Ethnic hierarchy in the Russian labour market: A field experiment". SocArXiv. 16 October.
+[`[Source]`](https://doi.org/10.31235/osf.io/2qzus) [`[pdf]`](../filespubs/Bessudnov_Shcherbak.pdf)
+
 * Bessudnov, A. (2016). "Ethnic hierarchy and public attitudes towards immigrants in Russia". European Sociological Review 32 (5): 567-580. [`[Source]`](https://doi.org/10.1093/esr/jcw002) [`[pdf]`](../filespubs/ESR2016_open.pdf)
 
 ### Inequalities in education
