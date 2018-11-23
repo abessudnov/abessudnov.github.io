@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Media"
+title: "Media appearances"
 permalink: /media/
 author_profile: true
 ---
 
-**In English**
+### In English
 
 1. Comment on life expectancy in Russia. BBC Radio World Business Report. 22 Feb 2017. [Link](https://www.bbc.co.uk/programmes/p04tqphc)
 
-**In Russian**
+### In Russian
 
 *Печатные СМИ*
 
