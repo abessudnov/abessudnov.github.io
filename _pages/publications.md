@@ -31,6 +31,8 @@ author_profile: true
 
 ### Programme evaluation in education
 
+* Norwich, B., Koutsouris, G., and Bessudnov, A. (2018). "An innovative classroom reading intervention for Year 2 and 3 pupils who are struggling to learn to read. Evaluating the Integrated Group Reading Programme". Executive summary and project report. [`[pdf]`](../filespubs/IGRreportFINALeditedMay18.pdf)
+
 * Bessudnov, A., Guardiancich, I. and Marimon, R. (2015). "A statistical evaluation of a structured postdoctoral programme". Studies in Higher Education 40 (9): 1588-1604. [`[Source]`](https://doi.org/10.1080/03075079.2014.899340) [`[pdf]`](../filespubs/she2015_open.pdf)
 
 ### Social stratification in Russia

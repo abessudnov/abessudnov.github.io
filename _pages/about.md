@@ -22,17 +22,13 @@ A.Bessudnov & A.Shcherbak. (2018). "Ethnic hierarchy in the Russian labour marke
 
 **2. The effect of academisation on educational trajectories of children with special needs in England.**
 
-Together with Alison Black, Brahm Norwich and Yi Liu we are analysing data from the National Pupil Database to study educational trajectories of children with special educational needs in English schools. In particular, we are interested in whether converting schools to academies has affected placements of children with SEN. The project has been funded by the ESRC.
+Together with Alison Black, Brahm Norwich and Yi Liu we analyse data from the National Pupil Database to study educational trajectories of children with special educational needs in English schools. In particular, we are interested in whether converting schools to academies has affected placements of children with SEN. The project has been funded by the ESRC.
 
-**3. Evaluating the Integrated Group Reading programme.**
-
-Together with Brahm Norwich and George Koutsouris we have evaluated the [Integrated Group Reading (IGR) programme](http://www.integratedgroupreading.co.uk/), a classroom reading intervention for Year 2 and 3 pupils in English schools who struggle to learn to read. The evaluation involved conducting a randomised controlled trial and has been supported by the Nuffield Foundation. The project has now been completed; please see the final report [here](filespubs/IGRreportFINALeditedMay18.pdf) and the summary [here](filespubs/IGRSummaryfinalMay18.pdf).
-
-**4. Ethnic intermarriage in Russia.**
+**3. Ethnic intermarriage in Russia.**
 
 I use data from the Russian census to look at the ethnic intermarriage in Russia across several cohorts and regions. Please see a (somewhat outdated) presentation [here](filestalks/glasgowBessudnov.pdf).
 
-**5. Social inequaities in education in Russia.**
+**4. Social inequaities in education in Russia.**
 
 Together with Dmitry Kurakin and Valeriya Malik from the HSE Moscow, we explore social inequalities in Russian education, with a particular focus on primary and secondary effects of parental background. This project uses data from [TrEC](https://trec.hse.ru/en/) (Trajectories in Education and Careers), the first longitudinal study of educational trajectories in Russia. Currently we explore horizontal stratification in higher education. See the latest presentation [here](filestalks/HSEeducJan2018.pdf) (in Russian).
 
