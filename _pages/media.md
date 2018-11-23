@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: ""
-excerpt: "Media appearances"
+layout: archive
+title: "Media appearances"
+permalink: /media/
 author_profile: true
-redirect_from: 
-  - /media/
-  - /media.html
 ---
 
 **In English**
