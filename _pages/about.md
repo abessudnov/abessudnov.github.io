@@ -10,7 +10,7 @@ redirect_from:
 
 I am a quantitative social scientist at the University of Exeter. I am mostly interested in ethnic inequalities and inequalities in education and conduct research both on Russia and the UK.
 
-Currently I am involved in the following projects.
+Current and recently completed projects:
 
 **1. Ethnic hierarchy in the Russian labour market.**
 
@@ -18,11 +18,13 @@ Together with Andrey Shcherbak from the HSE St Petersburg we conducted the first
 
 The results are now available as a working paper:
 
-A.Bessudnov & A.Shcherbak. (2018). "Ethnic hierarchy in the Russian labour market: A field experiment". SocArXiv. 16 October. [doi:10.31235/osf.io/2qzus](https://osf.io/preprints/socarxiv/2qzus/).
+A.Bessudnov & A.Shcherbak. (2018). "Ethnic hierarchy in the Russian labour market: A field experiment". SocArXiv. 16 October. [doi:10.31235/osf.io/2qzus](https://doi.org/10.31235/osf.io/2qzus).
 
 **2. The effect of academisation on educational trajectories of children with special needs in England.**
 
-Together with Alison Black, Brahm Norwich and Yi Liu we analyse data from the National Pupil Database to study educational trajectories of children with special educational needs in English schools. In particular, we are interested in whether converting schools to academies has affected placements of children with SEN. The project has been funded by the ESRC.
+Together with Alison Black, Brahm Norwich and Yi Liu we analysed data from the National Pupil Database to estimate the effect of converting English schools to academies on children with special educational needs. The project has been funded by the ESRC's Secondary Data Analysis Initiative.
+
+Y.Liu, A.Bessudnov, A.Black, & B.Norwich. (2019). "School autonomy and educational inclusion of children with special needs: Evidence from England". SocArXiv. 7 January. [doi:10.31235/osf.io/y7z56](https://doi.org/10.31235/osf.io/y7z56).
 
 **3. Ethnic intermarriage in Russia.**
 
