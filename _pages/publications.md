@@ -17,8 +17,8 @@ author_profile: true
 
 ### Ethnicity and ethnic hierarchy in Russia
 
-* Bessudnov, A. and A.Shcherbak. (2018). "Ethnic hierarchy in the Russian labour market: A field experiment". SocArXiv. 16 October.
-[`[Source]`](https://doi.org/10.31235/osf.io/2qzus) 
+* Bessudnov, A. and A.Shcherbak. (2019). "Ethnic discrimination in multi-ethnic societies: Evidence from Russia". European Sociological Review. Published online 8 October 2019.
+[`[Open access]`](https://doi.org/10.1093/esr/jcz045) 
 * Bessudnov, A. (2016). "Ethnic hierarchy and public attitudes towards immigrants in Russia". European Sociological Review 32 (5): 567-580. [`[Source]`](https://doi.org/10.1093/esr/jcw002) [`[pdf]`](../filespubs/ESR2016_open.pdf)
 
 
@@ -26,7 +26,7 @@ author_profile: true
 
 * Liu, Y., A.Bessudnov, A.Black, and B.Norwich. (2019). "School autonomy and educational inclusion of children with special needs: Evidence from England". SocArXiv. 7 January. [`[Source]`](https://doi.org/10.31235/osf.io/y7z56) 
 * Black, A., A.Bessudnov, Y.Liu, and B.Norwich. (2019). "Academisation of schools in England and placements of pupils with special educational needs: An analysis of trends, 2011-2017". Frontiers in Education 4:3. [`[Source]`](https://10.3389/feduc.2019.00003) 
-* Koutsouris, G., B.Norwich, and A.Bessudnov. (2019). "Interpreting RCT, process evaluation and case study evidence in evaluating the Integrated Group Reading (IGR) programme: a teacher-led, classroom-based intervention for Year 2 and 3 pupils struggling to read". Educational Review. Published online on 7 February 2019. [`[Source]`](https://doi.org/10.1080/00131911.2018.1557597)
+* Koutsouris, G., B.Norwich, and A.Bessudnov. (2019). "Interpreting RCT, process evaluation and case study evidence in evaluating the Integrated Group Reading (IGR) programme: a teacher-led, classroom-based intervention for Year 2 and 3 pupils struggling to read". Educational Review. Published online 7 February 2019. [`[Source]`](https://doi.org/10.1080/00131911.2018.1557597)
 * Bessudnov, A., I.Guardiancich, and R.Marimon. (2015). "A statistical evaluation of a structured postdoctoral programme". Studies in Higher Education 40 (9): 1588-1604. [`[Source]`](https://doi.org/10.1080/03075079.2014.899340) [`[pdf]`](../filespubs/she2015_open.pdf)
 
 ### Inequalities in education
