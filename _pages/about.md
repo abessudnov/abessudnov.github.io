@@ -18,7 +18,7 @@ Current and recently completed projects:
 
 Together with Andrey Shcherbak from the HSE St Petersburg we conducted the first audit study of ethnic discrimination in the Russian labour market. We have sent over 9,000 job applications in four Russian cities to explore the differences in response rates across 10 ethnic groups. The project has been supported by the British Academy and the HSE as part of the International Mobility and Partnership scheme.
 
-A.Bessudnov & A.Shcherbak. (2019). "Ethnic discrimination in multi-ethnic societies: Evidence from Russia". European Sociological Review. Published online 8 October. [Open access](https://doi.org/10.1093/esr/jcz045).
+A.Bessudnov & A.Shcherbak. (2019). "Ethnic discrimination in multi-ethnic societies: Evidence from Russia". European Sociological Review. Published online 8 October. [`[Open access]`](https://doi.org/10.1093/esr/jcz045).
 
 **2. The effect of academisation on educational trajectories of children with special needs in England.**
 
