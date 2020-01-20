@@ -10,7 +10,7 @@ redirect_from:
 
 I am a quantitative social scientist at the University of Exeter. I am mostly interested in ethnic inequalities and inequalities in education and conduct research both on Russia and the UK.
 
-**My office hours for Term 1 in 2019-20: Monday, 2-3pm; Thursday, 10-11am (Clayden 1.05)**
+**My office hours for Term 2 in 2019-20: Monday, 10-11am; Friday, 10-11am (Clayden 1.05)**
 
 Current and recently completed projects:
 
