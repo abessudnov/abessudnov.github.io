@@ -33,4 +33,4 @@ Grants
 Professional service
 ------
 * Member of Research Committee 28, International Sociological Association
-* Reviewer for the American Sociological Review, European Sociological Review, Sage, Routledge, ESRC, Russia's Science Foundation and others  
+* Reviewer for the American Sociological Review, European Sociological Review, Social Forces, Sage, Routledge, ESRC, Russia's Science Foundation and others  
