@@ -10,8 +10,6 @@ redirect_from:
 
 I am a quantitative social scientist at the University of Exeter. I am mostly interested in ethnic inequalities and inequalities in education and conduct research both on Russia and the UK.
 
-**My office hours for Term 2 in 2019-20: Monday, 10-11am; Friday, 10-11am (Clayden 1.05)**
-
 Recently completed projects:
 
 **1. Ethnic intermarriage in Russia.**
@@ -30,7 +28,7 @@ A.Bessudnov & A.Shcherbak. (2020). "Ethnic discrimination in multi-ethnic societ
 
 Together with Alison Black, Brahm Norwich and Yi Liu we analysed data from the National Pupil Database to estimate the effect of converting English schools to academies on children with special educational needs. The project has been funded by the ESRC's Secondary Data Analysis Initiative.
 
-Y.Liu, A.Bessudnov, A.Black, & B.Norwich. (2020). "School autonomy and educational inclusion of children with special needs: Evidence from England". British Educational Research Journal. Published online 23 January. [`[Open access]`](https://doi.org/10.1002/berj.3593)
+Y.Liu, A.Bessudnov, A.Black, & B.Norwich. (2020). "School autonomy and educational inclusion of children with special needs: Evidence from England". British Educational Research Journal 46 (3): 532-552. [`[Open access]`](https://doi.org/10.1002/berj.3593)
 
 
 Teaching
