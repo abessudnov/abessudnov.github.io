@@ -14,6 +14,8 @@ author_profile: true
  This page only includes talks delivered since 2017.
  {: .notice}
  
+* "Trends in ethnic intermarriage in the UK"
+  - British Society for Population Studies (15 September 2020)
 * "Ethnic hierarchy in the Russian labour market: A field experiment" (with Andrey Shcherbak)
   - University of Amsterdam (28 September 2017); Laboratory for Comparative Social Research, HSE St Petersburg (25 Jan 2018); St Antony's College, Oxford University (19 Feb 2018); Southern Sociological Society 2018 meeting (7 Apr 2018); HSE 2018 conference, Moscow (10 Apr 2018); American Sociological Association meeting (14 August 2018); King's College London (1 October 2018); European Consortium for Sociological Research conference (29 October 2018)
   - [`[ASA2018 slides with the final results]`](../filestalks/ASA2018slides.pdf)
