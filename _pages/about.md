@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a quantitative social scientist at the University of Exeter. I am mostly interested in ethnic inequalities and inequalities in education and conduct research both on Russia and the UK.
+I am a quantitative social scientist at the University of Exeter. I study ethnic groups and inequalities in education, in Russia and in the UK.
 
 Recently completed projects:
 
@@ -16,7 +16,7 @@ Recently completed projects:
 
 With Christiaan Monden we used data from the Russian census to look at ethnic intermarriage in Russia across several cohorts and cities.
 
-A.Bessudnov & C.Monden. (2020). "Ethnic intermarriage in Russia: The Tale of Four Cities". SocArXiv. 6 Feb. [`[Open access]`](https://doi.org/10.31235/osf.io/2u58g)
+A.Bessudnov & C.Monden. (2021). "Ethnic intermarriage in Russia: The Tale of Four Cities". Post-Soviet Affairs 37 (4): 383-403. [`[Open access]`](https://doi.org/10.1080/1060586X.2021.1957345)
 
 **2. Ethnic hierarchy in the Russian labour market.**
 

@@ -17,7 +17,8 @@ author_profile: true
 
 ### Ethnicity and ethnic hierarchy in Russia
 
-* Bessudnov, A. and C.Monden. (2020). "Ethnic intermarriage in Russia: The Tale of Four Cities". SocArXiv. 6 Feb. [`[Open access]`](https://doi.org/10.31235/osf.io/2u58g)
+* Bessudnov, A. & C.Monden. (2021). "Ethnic intermarriage in Russia: The Tale of Four Cities". Post-Soviet Affairs 37 (4): 383-403.
+[`[Open access]`](https://doi.org/10.1080/1060586X.2021.1957345)
 * Bessudnov, A. and A.Shcherbak. (2020). "Ethnic discrimination in multi-ethnic societies: Evidence from Russia". European Sociological Review 36 (1): 104-120.
 [`[Open access]`](https://doi.org/10.1093/esr/jcz045) 
 * Bessudnov, A. (2016). "Ethnic hierarchy and public attitudes towards immigrants in Russia". European Sociological Review 32 (5): 567-580. [`[Source]`](https://doi.org/10.1093/esr/jcw002) [`[pdf]`](../filespubs/ESR2016_open.pdf)
