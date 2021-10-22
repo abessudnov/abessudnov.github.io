@@ -17,6 +17,8 @@ author_profile: true
 
 ### Ethnicity and ethnic hierarchy in Russia
 
+* Bessudnov, A. et al. (2021). "Predicting ethnicity with data on personal names in Russia". SocArXiv. 19 October.
+[`[Open access]`](https://doi.org/10.31235/osf.io/wf6p4)
 * Bessudnov, A. & C.Monden. (2021). "Ethnic intermarriage in Russia: The Tale of Four Cities". Post-Soviet Affairs 37 (4): 383-403.
 [`[Open access]`](https://doi.org/10.1080/1060586X.2021.1957345)
 * Bessudnov, A. and A.Shcherbak. (2020). "Ethnic discrimination in multi-ethnic societies: Evidence from Russia". European Sociological Review 36 (1): 104-120.
