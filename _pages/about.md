@@ -24,7 +24,7 @@ With Christiaan Monden we used data from the Russian census to look at ethnic in
 
 A.Bessudnov & C.Monden. (2021). "Ethnic intermarriage in Russia: The Tale of Four Cities". Post-Soviet Affairs 37 (4): 383-403. [`[Open access]`](https://doi.org/10.1080/1060586X.2021.1957345)
 
-**2. Ethnic hierarchy in the Russian labour market.**
+**3. Ethnic hierarchy in the Russian labour market.**
 
 Together with Andrey Shcherbak from the HSE St Petersburg we conducted the first audit study of ethnic discrimination in the Russian labour market. We have sent over 9,000 job applications in four Russian cities to explore the differences in response rates across 10 ethnic groups. The project was supported by the British Academy and the HSE as part of the International Mobility and Partnership scheme.
 
