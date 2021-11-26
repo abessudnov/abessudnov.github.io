@@ -13,7 +13,8 @@ redirect_from:
 
 Career
 ------
-* Senior Lecturer, Department of Sociology, Philosophy and Anthropology, University of Exeter (2017 - )
+* Associate Professor, Department of Sociology, Philosophy and Anthropology, University of Exeter (2021 -- present)
+* Senior Lecturer, Department of Sociology, Philosophy and Anthropology, University of Exeter (2017-21)
 * Lecturer, Department of Sociology, Philosophy and Anthropology, University of Exeter (2014-17)
 * Assistant Professor, Department of Sociology, National Research University Higher School of Economics (2011-14)
 * Max Weber Postdoctoral Fellow, European University Institute (2010-11)
@@ -32,6 +33,6 @@ Grants
 
 Professional service
 ------
-* Director of Education; Department of Sociology, Philosophy and Anthropology, University of Exeter (20019 -- present)
+* Director of Education; Department of Sociology, Philosophy and Anthropology, University of Exeter (2019-22)
 * Member of Research Committee 28, International Sociological Association
 * Reviewer for the American Sociological Review, European Sociological Review, Social Forces, Sage, Routledge, ESRC, Russia's Science Foundation and others  
