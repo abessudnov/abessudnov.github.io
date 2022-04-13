@@ -7,17 +7,25 @@ author_profile: true
 
 ### In English
 
+* Comment on popular support of Russia's invasion in Ukraine. "Why do so many Russians say they support the war in Ukraine". The New Yorker. 29 March 2022. [`[Link]`](https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine)
+
+* "Russia's tricky opinion polling". Meduza. 7 March 2022. [`[Link]`](https://meduza.io/en/feature/2022/03/07/russia-s-tricky-opinion-polling)
+
 * Comment on life expectancy in Russia. BBC Radio World Business Report. 22 Feb 2017. [`[Link]`](https://www.bbc.co.uk/programmes/p04tqphc)
 
 ### In Russian
 
 #### Печатные СМИ
 
+* "Если верить государственным соцопросам, большинство россиян поддерживают войну в Украине. Но можно ли им верить?" Медуза. 5 марта 2022. [`[Ссылка]`](https://meduza.io/feature/2022/03/05/esli-verit-gosudarstvennym-sotsoprosam-bolshinstvo-rossiyan-podderzhivayut-voynu-v-ukraine-no-mozhno-li-im-verit)
+
 * "Как выглядит этническая дискриминация на рынке труда" (совместно с А.Щербаком). Ведомости. 18 мая 2018. [`[Ссылка]`](https://www.vedomosti.ru/opinion/articles/2018/05/18/769904-etnicheskaya-diskriminatsiya)
 
 * "Миф о всеобщем высшем образовании" (совместно с В.Малик и Д.Куракиным). Ведомости. 10 октября 2017. [`[Ссылка]`](https://www.vedomosti.ru/opinion/articles/2017/10/10/737202-mif-o-vseobschem-visshem)
 
 #### Комментарии для СМИ
+
+* "Поддерживают ли россияне войну в Украине? Смотря как спросить". BBC Русская служба. 8 марта 2022. [`[Ссылка]`](https://www.bbc.com/russian/news-60662712)
 
 * "Ищу девочку на направление работы с госорганами". Кого и как в России дискриминируют при приеме на работу. 5 июля 2018. BBC Русская Служба. [`[Ссылка]`](https://www.bbc.com/russian/features-44727766)
 
