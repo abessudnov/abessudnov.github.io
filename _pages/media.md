@@ -15,7 +15,10 @@ author_profile: true
 
 ### In Russian
 
-#### Печатные СМИ
+#### Печатные и интернет-СМИ
+
+* "Смертность российских военных в Украине: действительно ли этнические меньшинства погибают чаще?" BBC Русская служба. 28 октября 2022.
+[`[Ссылка]`](https://www.bbc.com/russian/features-63416259)
 
 * "Если верить государственным соцопросам, большинство россиян поддерживают войну в Украине. Но можно ли им верить?" Медуза. 5 марта 2022. [`[Ссылка]`](https://meduza.io/feature/2022/03/05/esli-verit-gosudarstvennym-sotsoprosam-bolshinstvo-rossiyan-podderzhivayut-voynu-v-ukraine-no-mozhno-li-im-verit)
 
