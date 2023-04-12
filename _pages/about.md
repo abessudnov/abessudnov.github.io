@@ -22,7 +22,7 @@ A.Bessudnov. (2022).  “Ethnic and regional inequalities in the Russian militar
 
 VK, the largest Russian social media website, provides an API that can be used for downloading data for social research. However, VK does not record users' ethnicity. In a recent working paper we developed an ML-based method to code perceived ethnicity with the data on personal names collected on VK.
 
-* Bessudnov, A. et al. (2021). "Predicting ethnicity with data on personal names in Russia". SocArXiv. 19 October. [`[Open access]`](https://doi.org/10.31235/osf.io/wf6p4)
+* Bessudnov, A. et al. (2023). "Predicting perceived ethnicity with data on personal names in Russia". Journal of Computational Social Science. [`[Open access]`](https://doi.org/10.1007/s42001-023-00205-y)
 
 **3. Ethnic intermarriage in Russia.**
 
