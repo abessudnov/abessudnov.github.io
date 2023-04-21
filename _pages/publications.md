@@ -15,12 +15,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+### Ethnic groups and categories in education in England
+
+* Bessudnov, A. (2023). "Ethnic differences in reading and mathematical test performance in primary schools in England". SocArXiv. April 20.
+[`[Open access]`](http://doi.org/10.31235/osf.io/5wvx2)
+
 ### Ethnicity and ethnic hierarchy in Russia
 
 * Bessudnov, A. (2022). "Ethnic and regional inequalities in the Russian military fatalities in the 2022 war in Ukraine". SocArXiv. December 10.
 [`[Open access]`](https://doi.org/10.31235/osf.io/s43yf)
-* Bessudnov, A. et al. (2023). "Predicting ethnicity with data on personal names in Russia". Journal of Computational Social Science. Forthcoming.
-[`[Open access]`](https://doi.org/10.31235/osf.io/wf6p4)
+* Bessudnov, A. et al. (2023). "Predicting ethnicity with data on personal names in Russia". Journal of Computational Social Science.
+[`[Open access]`](https://doi.org/10.1007/s42001-023-00205-y)
 * Bessudnov, A. & C.Monden. (2021). "Ethnic intermarriage in Russia: The Tale of Four Cities". Post-Soviet Affairs 37 (4): 383-403.
 [`[Open access]`](https://doi.org/10.1080/1060586X.2021.1957345)
 * Bessudnov, A. and A.Shcherbak. (2020). "Ethnic discrimination in multi-ethnic societies: Evidence from Russia". European Sociological Review 36 (1): 104-120.
@@ -31,11 +36,11 @@ author_profile: true
 ### Programme evaluation in education
 
 * Liu, Y., A.Bessudnov, A.Black, and B.Norwich. (2020). "School autonomy and educational inclusion of children with special needs: Evidence from England". British Educational Research Journal 46 (3): 532-552. [`[Open access]`](https://doi.org/10.1002/berj.3593) 
-* Black, A., A.Bessudnov, Y.Liu, and B.Norwich. (2019). "Academisation of schools in England and placements of pupils with special educational needs: An analysis of trends, 2011-2017". Frontiers in Education 4:3. [`[Source]`](https://10.3389/feduc.2019.00003) 
-* Koutsouris, G., B.Norwich, and A.Bessudnov. (2019). "Interpreting RCT, process evaluation and case study evidence in evaluating the Integrated Group Reading (IGR) programme: a teacher-led, classroom-based intervention for Year 2 and 3 pupils struggling to read". Educational Review. Published online 7 February 2019. [`[Source]`](https://doi.org/10.1080/00131911.2018.1557597)
+* Black, A., A.Bessudnov, Y.Liu, and B.Norwich. (2019). "Academisation of schools in England and placements of pupils with special educational needs: An analysis of trends, 2011-2017". Frontiers in Education 4:3. [`[Open access]`](https://10.3389/feduc.2019.00003) 
+* Koutsouris, G., B.Norwich, and A.Bessudnov. (2021). "Interpreting RCT, process evaluation and case study evidence in evaluating the Integrated Group Reading (IGR) programme: a teacher-led, classroom-based intervention for Year 2 and 3 pupils struggling to read". Educational Review 73 (3): 346-373. [`[Source]`](https://doi.org/10.1080/00131911.2018.1557597)
 * Bessudnov, A., I.Guardiancich, and R.Marimon. (2015). "A statistical evaluation of a structured postdoctoral programme". Studies in Higher Education 40 (9): 1588-1604. [`[Source]`](https://doi.org/10.1080/03075079.2014.899340) [`[pdf]`](../filespubs/she2015_open.pdf)
 
-### Inequalities in education
+### Inequalities in education in Russia
 
 * Bessudnov, A., D.Kurakin, and V.Malik. (2017). "The myth about universal higher education: Russia in the international context". Educational Studies Moscow 3: 83-109. [`[Source]`](https://doi.org/10.17323/1814-9545-2016-1-135-167) [`[pdf]`](../filespubs/VO2017.pdf)
 * Bessudnov, A., and V.Malik. (2016). "Socio-economic and gender inequalities in educational trajectories upon completion of lower secondary education in Russia". Educational Studies Moscow 1: 135-167. [`[Source]`](https://doi.org/10.17323/1814-9545-2017-3-83-109) [`[pdf]`](../filespubs/VO2016.pdf)
