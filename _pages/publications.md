@@ -22,8 +22,8 @@ author_profile: true
 
 ### Ethnicity and ethnic hierarchy in Russia
 
-* Bessudnov, A. (2022). "Ethnic and regional inequalities in the Russian military fatalities in the 2022 war in Ukraine". SocArXiv. December 10.
-[`[Open access]`](https://doi.org/10.31235/osf.io/s43yf)
+* Bessudnov, A. (2023). "Ethnic and regional inequalities in Russian military fatalities in Ukraine: Preliminary findings from crowdsourced data". Demographic Research 48 (31): 883-898.
+[`[Open access]`](https://doi.org/10.4054/DemRes.2023.48.31)
 * Bessudnov, A. et al. (2023). "Predicting ethnicity with data on personal names in Russia". Journal of Computational Social Science.
 [`[Open access]`](https://doi.org/10.1007/s42001-023-00205-y)
 * Bessudnov, A. & C.Monden. (2021). "Ethnic intermarriage in Russia: The Tale of Four Cities". Post-Soviet Affairs 37 (4): 383-403.

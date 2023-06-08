@@ -22,7 +22,7 @@ A.Bessudnov. (2023).  “Ethnic differences in reading and mathematical test per
 
 I use a crowdsourced data set on the Russian military fatalities in Ukraine to analyse how the fatality rates varied by ethnicity and region.
 
-A.Bessudnov. (2022).  “Ethnic and regional inequalities in the Russian military fatalities in the 2022 war in Ukraine.” SocArXiv. December 10. [`[Open access]`](https://doi.org/10.31235/osf.io/s43yf)
+A.Bessudnov. (2023).  “Ethnic and regional inequalities in Russian military fatalities in Ukraine: Preliminary findings from crowdsourced data.” Demographic Research 48 (31): 883-898. [`[Open access]`](https://doi.org/10.4054/DemRes.2023.48.31)
 
 **3. Predicting perceived ethnicity with data on personal names in Russia.**
 
