@@ -15,6 +15,7 @@ author_profile: true
 
 All course materials are available on [ELE](http://vle.exeter.ac.uk/).
 
+* Social Problems (SSI1004)
 * Immigration in Western Societies (SSI2006/3002). [`[Course outline 2021]`](../filesteaching/ImmigrationHandbook2021.pdf)
 * Data Analysis in Social Science 3 (SSI2007/3003). [`[Github repository]`](https://github.com/datan3-2020/datan3)
 * Introduction to Social Data (POL1008 SOC1004). [2014-16]. [`[Course outline 2016]`](../filesteaching/soc1004outline.pdf)

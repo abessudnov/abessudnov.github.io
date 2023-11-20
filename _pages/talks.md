@@ -14,9 +14,9 @@ author_profile: true
  This page only includes talks delivered since 2017.
  {: .notice}
 
-* "Working with the National Pupil Database in the ONS Secure Research environment"
-  - Institute for Data Science and Artificial Intelligence, University of Exeter (26 October 2022)
-  - [`[Slides]`](../filestalks/IDSAI_presentation_26Sept_saved.pdf)
+* "Ethnic differences in reading and mathematical test performance in primary schools in England"
+  - Institute for Data Science and Artificial Intelligence, University of Exeter (26 October 2022); British Society for Population Studies conference (13 September 2023); ADR UK conference (16 November 2023)
+  - [`[Slides]`](../filestalks/ADR_presentation_ethnic.pdf)
 * "Trends in ethnic intermarriage in the UK"
   - British Society for Population Studies (15 September 2020); the Understanding Society People and Places conference (5 April 2022)
   - [`[Slides]`](../filestalks/UndSocConferencePresentation.pdf)
