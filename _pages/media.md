@@ -5,7 +5,10 @@ permalink: /media/
 author_profile: true
 ---
 
-### In English
+### In English / Spanish
+
+* Comment on ethnic relations in Russia. 'Pánico racial' en Rusia: "No te montes en su taxi, es tayiko". El Confidencial. 13 abril 2024.
+[`[Link]`](https://www.elconfidencial.com/mundo/2024-04-13/panico-racial-rusia-migrantes-asia-tayikistan_3865549/)
 
 * Comment on popular support of Russia's invasion in Ukraine. "Why do so many Russians say they support the war in Ukraine". The New Yorker. 29 March 2022. [`[Link]`](https://www.newyorker.com/news/news-desk/why-do-so-many-russians-say-they-support-the-war-in-ukraine)
 
