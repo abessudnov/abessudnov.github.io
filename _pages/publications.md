@@ -17,9 +17,9 @@ author_profile: true
 
 ### Computational social science
 
-* Bessudnov, A. (2024). "Digital trace data in Russian studies". SocArXiv. July 16.
+* Bessudnov, A. (2024). "Using digital trace data in Russian studies". SocArXiv. July 16.
 [`[Open access]`](https://doi.org/10.31235/osf.io/825cu)
-* Bessudnov, A. et al. (2023). "Predicting ethnicity with data on personal names in Russia". Journal of Computational Social Science.
+* Bessudnov, A. et al. (2023). "Predicting ethnicity with data on personal names in Russia". Journal of Computational Social Science 6: 589-608.
 [`[Open access]`](https://doi.org/10.1007/s42001-023-00205-y)
 
 ### The Russo-Ukrainian war
