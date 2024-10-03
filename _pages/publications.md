@@ -15,23 +15,32 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-### Ethnic groups and categories in education in England
+### Computational social science
 
-* Bessudnov, A. (2023). "Ethnic differences in reading and mathematical test performance in primary schools in England". SocArXiv. April 20.
-[`[Open access]`](http://doi.org/10.31235/osf.io/5wvx2)
+* Bessudnov, A. (2024). "Digital trace data in Russian studies". SocArXiv. July 16.
+[`[Open access]`](https://doi.org/10.31235/osf.io/825cu)
+* Bessudnov, A. et al. (2023). "Predicting ethnicity with data on personal names in Russia". Journal of Computational Social Science.
+[`[Open access]`](https://doi.org/10.1007/s42001-023-00205-y)
+
+### The Russo-Ukrainian war
+
+* Kobak, D., A.Bessudnov, A.Ershov, T.Mikhailova, and A.Raksha. (2024). "War fatalities in Russia in 2022–2023 estimated via excess male mortality". Demography. (Forthcoming.)
+[`[Open access]`](https://doi.org/10.31235/osf.io/xcrme)
+* Bessudnov, A. (2023). "Ethnic and regional inequalities in Russian military fatalities in Ukraine: Preliminary findings from crowdsourced data". Demographic Research 48 (31): 883-898.
+[`[Open access]`](https://doi.org/10.4054/DemRes.2023.48.31)
 
 ### Ethnicity and ethnic hierarchy in Russia
 
-* Bessudnov, A. (2023). "Ethnic and regional inequalities in Russian military fatalities in Ukraine: Preliminary findings from crowdsourced data". Demographic Research 48 (31): 883-898.
-[`[Open access]`](https://doi.org/10.4054/DemRes.2023.48.31)
-* Bessudnov, A. et al. (2023). "Predicting ethnicity with data on personal names in Russia". Journal of Computational Social Science.
-[`[Open access]`](https://doi.org/10.1007/s42001-023-00205-y)
 * Bessudnov, A. & C.Monden. (2021). "Ethnic intermarriage in Russia: The Tale of Four Cities". Post-Soviet Affairs 37 (4): 383-403.
 [`[Open access]`](https://doi.org/10.1080/1060586X.2021.1957345)
 * Bessudnov, A. and A.Shcherbak. (2020). "Ethnic discrimination in multi-ethnic societies: Evidence from Russia". European Sociological Review 36 (1): 104-120.
 [`[Open access]`](https://doi.org/10.1093/esr/jcz045) 
 * Bessudnov, A. (2016). "Ethnic hierarchy and public attitudes towards immigrants in Russia". European Sociological Review 32 (5): 567-580. [`[Source]`](https://doi.org/10.1093/esr/jcw002) [`[pdf]`](../filespubs/ESR2016_open.pdf)
 
+### Ethnic groups and categories in education in England
+
+* Bessudnov, A. (2023). "Ethnic differences in reading and mathematical test performance in primary schools in England". SocArXiv. April 20.
+[`[Open access]`](http://doi.org/10.31235/osf.io/5wvx2)
 
 ### Programme evaluation in education
 
@@ -56,7 +65,6 @@ author_profile: true
 ### На русском языке
 
 * Арутюнова Е., А.Бессуднов, О.Вендина, Д.Верховцев, М.Каменских. (2024). "Обмен мнениями по поводу статьи Е. Варшавера "Что именно исследуется, когда исследуется этничность? Дескриптивная модель для конструктивистских исследований этничности в контексте когнитивного поворота"". Социологическое Обозрение [Russian Sociological Review] 23 (3): 127-145. [`[Источник]`](https://sociologica.hse.ru/data/2024/10/02/1884793616/SocOboz%202024-3-127-145.pdf) [`[pdf]`](../filespubs/SocOboz 2024-3-127-145.pdf)
-
 * Бессуднов А.Р., Куракин Д.Ю., Малик В.М. (2017). "Как возник и что скрывает миф о всеобщем высшем образовании". Вопросы образования 3: 83-109. [`[Источник]`](https://vo.hse.ru/2017--3/210394670.html) [`[pdf]`](../filespubs/vo2017rus.pdf)
 * Бессуднов А.Р., Малик В.М. (2016). "Социально-экономическое и гендерное неравенство при выборе образовательной траектории после окончания 9-го класса средней школы". Вопросы образования 1: 135-167. [`[Источник]`](https://vo.hse.ru/2016--1/178801763.html) [`[pdf]`](../filespubs/vo2016rus.pdf)
 * Ястребов Г.А., Бессуднов А.Р., Пинская М.А., Косарецкий С.Г. (2013). "Проблема контекстуализации образовательных результатов: школы, социальный состав учащихся и уровень депривации территорий". Вопросы образования 4: 188-246. [`[Источник]`](https://vo.hse.ru/2013--4%20/113210617.html) [`[pdf]`](../filespubs/vo2013rus.pdf)
