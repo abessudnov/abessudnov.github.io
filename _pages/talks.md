@@ -14,6 +14,9 @@ author_profile: true
  This page only includes talks delivered since 2017.
  {: .notice}
 
+* "Ethnic and regional inequalities in the Russian military fatalities in the war in Ukraine"
+  - British Society for Population Studies conference (12 September 2023)
+  - [`[Slides]`](../filestalks/BSPS_presentation_Russia.pdf)
 * "Ethnic differences in reading and mathematical test performance in primary schools in England"
   - Institute for Data Science and Artificial Intelligence, University of Exeter (26 October 2022); British Society for Population Studies conference (13 September 2023); ADR UK conference (16 November 2023)
   - [`[Slides]`](../filestalks/ADR_presentation_ethnic.pdf)
