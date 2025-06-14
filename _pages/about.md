@@ -24,7 +24,7 @@ Bessudnov, A. (2024). "Using digital trace data in Russian studies". SocArXiv. J
 
 We used the official Russian mortality statistics to estimate excess male mortality in 2022-23 due to the Russo-Ukrainian war. The number of Russian fatalities in 2022-23 was about 60,000: a very significant death toll but lower than sometimes reported in the media.
 
-D.Kobak, A.Bessudnov, A.Ershov, T.Mikhailova, and A.Raksha. (2025). "War fatalities in Russia in 2022–2023 estimated via excess male mortality". Demography. Advance publication. [`[Open access]`](https://doi.org/10.1215/00703370-11862998)
+D.Kobak, A.Bessudnov, A.Ershov, T.Mikhailova, and A.Raksha. (2025). "War fatalities in Russia in 2022–2023 estimated via excess male mortality". Demography 62 (2): 335-347. [`[Open access]`](https://doi.org/10.1215/00703370-11862998)
 
 **3. Ethnic and regional inequalities in the Russian military fatalities in the war in Ukraine.**
 

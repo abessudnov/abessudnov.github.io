@@ -24,7 +24,7 @@ author_profile: true
 
 ### The Russo-Ukrainian war
 
-* Kobak, D., A.Bessudnov, A.Ershov, T.Mikhailova, and A.Raksha. (2025). "War fatalities in Russia in 2022–2023 estimated via excess male mortality". Demography. Advance publication.
+* Kobak, D., A.Bessudnov, A.Ershov, T.Mikhailova, and A.Raksha. (2025). "War fatalities in Russia in 2022–2023 estimated via excess male mortality". Demography 62 (2): 335-347.
 [`[Open access]`](https://doi.org/10.1215/00703370-11862998)
 * Bessudnov, A. (2023). "Ethnic and regional inequalities in Russian military fatalities in Ukraine: Preliminary findings from crowdsourced data". Demographic Research 48 (31): 883-898.
 [`[Open access]`](https://doi.org/10.4054/DemRes.2023.48.31)
