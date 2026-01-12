@@ -18,7 +18,7 @@ Recently completed papers:
 
 This is a review of the literature that used digital trace data to study political communication, education, labour markets in Russia, as well as the Russo-Ukrainian war and its consequences, in the context when traditional data collection has become more difficult.
 
-Bessudnov, A. (2024). "Using digital trace data in Russian studies". SocArXiv. July 16. [`[Open access]`](https://doi.org/10.31235/osf.io/825cu)
+Bessudnov, A. (2026). "Researching Russia with digital trace data". Communist and Post-Communist Studies [`[Open access]`](../filespubs/CPCS_Bessudnov_author_accepted.pdf)
 
 **2. Russian military fatalities in Ukraine.**
 
