@@ -4,7 +4,7 @@ title: "Teaching"
 
 ## University of Exeter (2014 - )
 
-All course materials are available on [ELE](http://vle.exeter.ac.uk/).
+All course materials are available on [ELE](http://ele.exeter.ac.uk/).
 
 * Social Analysis (SOC1001). [2024 - ] [`[Course outline 2024-25]`](filesteaching/SOC1001_Social Analysis_v1.pdf)
 * Immigration in Western Societies (SSI2006/3002). [2014 - ] [`[Course outline 2022]`](filesteaching/ImmigrationHandbook2022.pdf)
