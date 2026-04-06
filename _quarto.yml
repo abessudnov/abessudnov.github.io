@@ -26,9 +26,6 @@ website:
         href: https://github.com/abessudnov
         aria-label: GitHub
 
-  page-footer:
-    center: "Alexey Bessudnov | University of Exeter"
-
 format:
   html:
     theme: [cosmo, custom.scss]
