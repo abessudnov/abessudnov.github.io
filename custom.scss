@@ -18,7 +18,11 @@ main ul li {
 /* Narrow the trestles left column */
 .quarto-about-trestles .about-entity {
   flex: 0 0 200px !important;
-  padding-right: 0 !important;
+  padding-right: 1.5em !important;
+}
+
+.quarto-about-trestles .about-contents {
+  padding-left: 1.5em !important;
 }
 
 .quarto-about-trestles .about-image {
