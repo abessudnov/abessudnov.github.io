@@ -14,9 +14,6 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/abessudnov
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/abessudnv
 ---
 
 I am a quantitative social scientist at the University of Exeter. I study immigration, ethnic groups and inequalities in education, in Russia and in the UK, using statistical analysis of survey, administrative, social media and experimental data.

@@ -25,9 +25,6 @@ website:
       - icon: github
         href: https://github.com/abessudnov
         aria-label: GitHub
-      - icon: twitter
-        href: https://twitter.com/abessudnv
-        aria-label: Twitter
 
   page-footer:
     center: "Alexey Bessudnov | University of Exeter"
