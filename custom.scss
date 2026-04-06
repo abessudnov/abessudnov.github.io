@@ -9,3 +9,22 @@ $link-color: #2C5F8A;
 main ul li {
   margin-bottom: 0.4rem;
 }
+
+/* Shift trestles to start from the page-start grid line (removes left white space) */
+.quarto-about-trestles {
+  grid-column: page-start / body-content-end !important;
+}
+
+/* Narrow the trestles left column */
+.quarto-about-trestles .about-entity {
+  flex: 0 0 200px !important;
+  padding-right: 0 !important;
+}
+
+.quarto-about-trestles .about-image {
+  width: 180px !important;
+}
+
+.quarto-about-trestles h1.title {
+  font-size: 1.5rem;
+}
