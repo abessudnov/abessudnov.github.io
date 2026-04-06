@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Alexey Bessudnov"
+  description: "Quantitative social science, education, immigration and ethnic minorities in the UK and Russia"
+  site-url: https://abessudnov.net
+
+  navbar:
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Talks"
+        href: talks.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Media"
+        href: media.qmd
+    right:
+      - icon: github
+        href: https://github.com/abessudnov
+        aria-label: GitHub
+      - icon: twitter
+        href: https://twitter.com/abessudnv
+        aria-label: Twitter
+
+  page-footer:
+    center: "Alexey Bessudnov | University of Exeter"
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    toc: false
