@@ -2,8 +2,8 @@
 title: "Alexey Bessudnov"
 about:
   template: trestles
-  image: images/pictureWeb3.jpg
-  image-shape: round
+  image: images/avatar_cropped.jpeg
+  image-shape: rectangle
   links:
     - icon: envelope
       text: Email
