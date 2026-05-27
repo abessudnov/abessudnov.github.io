@@ -18,8 +18,6 @@ about:
 
 I am a quantitative social scientist at the University of Exeter. I study immigration, ethnic groups and inequalities in education, in Russia and in the UK, using statistical analysis of survey, administrative, social media and experimental data.
 
-I am also a deputy head of the Department of Social and Political Sciences, Philosophy and Anthropology in Exeter.
-
 Recently completed papers:
 
 **1. Using digital trace data in Russian studies.**
@@ -42,4 +40,4 @@ A.Bessudnov. (2023).  "Ethnic and regional inequalities in Russian military fata
 
 ## Teaching
 
-In Exeter, I teach social analysis, immigration and statistical data analysis. Please see details in [Teaching](teaching.qmd).
+In Exeter, I teach courses on social research methods and statistical data analysis. Please see details in [Teaching](teaching.qmd).

@@ -6,6 +6,10 @@ title: "Presentations"
 This page only includes talks delivered since 2017.
 :::
 
+* "Emigration from Russia in 2022-23: Estimates and predictors from a nationally representative panel survey"
+  - ECSR 2025 conference (Cologne, 4 September 2025); MPIDR symposium (Rostock, 1 July 2025)
+  - [`[Slides]`](filestalks/ECSR_slides_2025.pdf)
+
 * "Ethnic and regional inequalities in the Russian military fatalities in the war in Ukraine"
   - British Society for Population Studies conference (12 September 2023)
   - [`[Slides]`](filestalks/BSPS_presentation_Russia.pdf)
