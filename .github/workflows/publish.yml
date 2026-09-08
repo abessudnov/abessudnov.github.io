@@ -26,4 +26,9 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
           publish_branch: gh-pages
-          force_orphan: true
+          # why: writes CNAME into the published branch on every deploy, so the
+          # custom domain never depends on Quarto happening to copy the root file.
+          cname: abessudnov.net
+          # why: force_orphan (force-push of a fresh orphan branch) was dropped —
+          # replacing gh-pages history caused GitHub to clear the Pages custom-domain
+          # setting, which took abessudnov.net offline in Aug 2026.
