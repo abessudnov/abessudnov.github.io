@@ -2,7 +2,7 @@
 title: "Alexey Bessudnov"
 about:
   template: trestles
-  image: images/avatar_cropped.jpeg
+  image: images/avatar_2026.jpeg
   image-shape: rectangle
   links:
     - icon: envelope
